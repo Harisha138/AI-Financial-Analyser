@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-groq
+llama-parse
+qdrant-client
+unstructured
+fastembed
+flashrank
+python-dotenv
+PyPDF2
+markdown
+streamlit
+pandas
+requests
+yfinance
+plotly
